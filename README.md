@@ -41,8 +41,8 @@ A lo largo de mi formación y mi experiencia en operaciones de campo, he desarro
 ### GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaeBryxn&show_icons=true&theme=radical&hide_border=true&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaeBryxn&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaeBryxn&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&bugfix=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaeBryxn&layout=compact&theme=radical&hide_border=true&cache_seconds=86400&bugfix=1" alt="Top Languages" />
 </p>
 
 ---
