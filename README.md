@@ -19,7 +19,7 @@ I design the architecture first and then build it end to end: the domain model, 
 ## More code on this profile
 
 - **[StockPro](https://github.com/SaeBryxn/inventario-pyme)** — full-stack inventory, sales and stock management for small businesses.
-- **FuelTrack** — fuel delivery logistics: [ASP.NET Core API](https://github.com/SaeBryxn/FuelTrack.Backend) organized by bounded contexts, and its [Vue 3 front-end](https://github.com/SaeBryxn/Front-End).
+- **FuelTrack** — fuel delivery logistics: [ASP.NET Core API](https://github.com/SaeBryxn/fueltrack-backend) organized by bounded contexts, and its [Vue 3 front-end](https://github.com/SaeBryxn/fueltrack-frontend).
 - **[OnControl](https://github.com/SaeBryxn/oncontrol-frontend-grupo)** — medical management app for oncology patient follow-up, built with a team in Next.js.
 
 ## How I work
