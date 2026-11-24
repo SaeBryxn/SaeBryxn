@@ -32,7 +32,7 @@ Real problems from telecom operations, rebuilt as clean, tested, open-source pro
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| **[Field Ops Pipeline](https://github.com/SaeBryxn/field-ops-pipeline)** | Turns thousands of unsorted field photos into an organized delivery: sorts them by node and item with OCR suggestions and unlimited undo, fills the Excel tracker from photo GPS (WGS84 → UTM), flags rows for human review and packages everything with a SHA-256 manifest. I built the first version on my own initiative: **a month of manual work became 3 days to a week.** | Python · Tkinter · Tesseract OCR · openpyxl · pytest (66 tests) · GitHub Actions |
+| **[Field Ops Pipeline](https://github.com/SaeBryxn/field-ops-pipeline)** | Turns thousands of unsorted field photos into an organized delivery: sorts them by node and item with OCR suggestions and unlimited undo, fills the Excel tracker from photo GPS (WGS84 → UTM), flags rows for human review and packages everything with a SHA-256 manifest. I built the first version on my own initiative: **a month of manual work became 3 days to a week.** | Python · Tkinter · Tesseract OCR · openpyxl · pytest (70 tests) · GitHub Actions |
 | **[NOC Incident Bot](https://github.com/SaeBryxn/noc-incident-bot)** | Reads a NOC engineer's incident e-mails (Gmail API / IMAP, read-only) and opens one Telegram thread per incident with status buttons, change history and a monitoring round every 2 hours. Idempotent by Message-ID, reconnects with backoff, authorized users only. | Python · python-telegram-bot · SQLite · Gmail API / IMAP · Docker · pytest (29 tests) |
 
 ## More code on this profile
